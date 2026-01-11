@@ -1,0 +1,10 @@
+{
+    "venvPath": ".",
+    "venv": "venv",
+    "pythonVersion": "3.13",
+    "pythonPlatform": "Windows",
+    "extraPaths": [
+        "rag_app"
+    ],
+    "typeCheckingMode": "basic"
+}
